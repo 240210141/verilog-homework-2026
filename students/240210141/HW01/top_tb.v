@@ -1,4 +1,3 @@
-`timescale 1ns/1ns
 module top_tb;
     wire clk;
     clk_gen u_clk(clk);
