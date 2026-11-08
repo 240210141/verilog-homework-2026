@@ -1,4 +1,3 @@
-`timescale 1ns/1ns
 module CD4017(clk, en, clr, q);
     input clk, en, clr;
     output[9:0] q;
